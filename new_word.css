@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+
+}
+
+
+html, body{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.new_form_container{
+
+    text-align: center;
+    margin: 12em;
+
+}
+
+.checkbox_clause{
+    display: inline-block;
+}
+
+
+.new_word{
+    width: 60em;
+    height: 3em;
+    border: 1px solid black;
+
+}
+
+.meaning-input{
+    height: 20em;
+    width: 60em;
+    margin-left: 1.25em;
+    margin-top: 2em;
+
+}
+
+
+.meaning{
+    display: flex;
+    align-items: center;
+    margin-left: 10em;
+}
+
+
